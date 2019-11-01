@@ -28,8 +28,8 @@ To convert an image to Minecraft pixel art, follow these steps:
 
 - [X] Convert pictures into pixel arts,
 - [X] Handle custom texture packs,
-- [] Allow users to specify the pixel to blocks ratio (basically resizing),
-- [] Allow .JPEG images,
-- [] Allow users to specify image URLs instead of local files,
-- [] Allow users to use various filters and effects (grayscale, sharpening...) before conversion
-- [] Allow users to select blocks from which the pixel art should be formed,
+- [ ] Allow users to specify the pixel to blocks ratio (basically resizing),
+- [ ] Allow .JPEG images,
+- [ ] Allow users to specify image URLs instead of local files,
+- [ ] Allow users to use various filters and effects (grayscale, sharpening...) before conversion
+- [ ] Allow users to select blocks from which the pixel art should be formed,
