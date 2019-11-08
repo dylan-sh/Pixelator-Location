@@ -22,7 +22,7 @@ To convert an image to Minecraft pixel art, follow these steps:
 - make sure your image is big/small enough, since one Minecraft block will represent one pixel of an image,
 - place your image into the `plugins/Pixel8or/input` folder
 - join the server and execute the following command:
-     - `/pixelator [your_file_name_excluding_extension]` for example `/pixelator selfie`
+     - `/pixelator [your_file_name_including_extension]` for example `/pixelator selfie.png`
      
 ## TO-DO:
 
