@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Pixel8or.iml" filepath="$PROJECT_DIR$/Pixel8or.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pixelator.iml" filepath="$PROJECT_DIR$/Pixelator.iml" />
     </modules>
   </component>
 </project>

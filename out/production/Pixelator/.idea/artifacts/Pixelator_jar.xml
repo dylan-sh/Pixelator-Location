@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Pixelator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Pixelator_jar</output-path>
+    <root id="archive" name="Pixelator.jar">
+      <element id="module-output" name="Pixelator" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../IdeaProjects/dallemc/Spigot/Spigot-API/target/spigot-api-1.19-R0.1-SNAPSHOT-shaded.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

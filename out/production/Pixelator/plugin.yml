@@ -1,0 +1,7 @@
+name: Pixel8or
+main: me.EncryptedShoesHD.pixel8or.Pixel8or
+version: 1.14.4
+api-version: 1.14
+author: EncryptedShoesHD
+commands:
+  pixelator:
