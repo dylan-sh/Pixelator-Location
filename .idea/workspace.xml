@@ -6,23 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c66d316-aed9-4459-a1fc-8f4f81a4e41e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/spigot_api_1_19_R0_1_SNAPSHOT_shaded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pixelator.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Pixel8or.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/spigot_1_14_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pixel8or.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Pixel8or.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Pixel8or/me/EncryptedShoesHD/pixel8or/Pixel8or.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Pixel8or/me/EncryptedShoesHD/pixel8or/commands/PixelatorCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Pixel8or/me/EncryptedShoesHD/pixel8or/util/Artist.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Pixel8or/me/EncryptedShoesHD/pixel8or/util/BlockDataParser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Pixel8or/me/EncryptedShoesHD/pixel8or/util/FileManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Pixel8or/me/EncryptedShoesHD/pixel8or/util/ImageExaminer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Pixel8or/me/EncryptedShoesHD/pixel8or/util/PixelatorBlock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/me.EncryptedShoesHD.pixel8or/commands/PixelatorCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me.EncryptedShoesHD.pixel8or/commands/PixelatorCommand.java" afterDir="false" />
-    </list>
+    <list default="true" id="0c66d316-aed9-4459-a1fc-8f4f81a4e41e" name="Default Changelist" comment="probably breaking everything just to add x y and z" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -137,17 +121,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "11",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Artifacts",
-    "project.structure.proportion": "0.26934096",
-    "project.structure.side.proportion": "0.29973823"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.26934096&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.29973823&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\user\IdeaProjects\Pixel8or\src" />
@@ -174,8 +158,16 @@
       <workItem from="1572532610019" duration="14079000" />
       <workItem from="1572599944916" duration="12093000" />
       <workItem from="1572613163990" duration="5153000" />
-      <workItem from="1684917484790" duration="2508000" />
+      <workItem from="1684917484790" duration="3255000" />
     </task>
+    <task id="LOCAL-00001" summary="probably breaking everything just to add x y and z">
+      <created>1684920145850</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684920145850</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -224,11 +216,21 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="probably breaking everything just to add x y and z" />
+    <option name="LAST_COMMIT_MESSAGE" value="probably breaking everything just to add x y and z" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://$USER_HOME$/Desktop/MinecraftServer/spigot-1.14.4.jar!/org/bukkit/plugin/java/JavaPlugin.class">
